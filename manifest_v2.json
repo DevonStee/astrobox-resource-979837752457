@@ -1,0 +1,52 @@
+{
+  "item": {
+    "id": "979837752457",
+    "restype": "watchface",
+    "name": "COLOR CARDS",
+    "description": "COLOR CARDS_彩色数据卡_四色切换\n上半部分是日历、步数、心率和电量，下面用很大很清晰的字体显示时间，看着挺直观的。\n欢迎在小红书关注我 @叫我Brin就好，动态效果在那里看。",
+    "preview": [
+      "media/03-colors.png",
+      "media/04-aod.png"
+    ],
+    "icon": "media/01-icon.png",
+    "cover": "media/02-cover.png",
+    "author": [
+      {
+        "name": "brin",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "在小红书查看动态表盘",
+      "url": "https://xhslink.cn/o/8ierYJqmfrs",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/COLOR CARDS.face",
+      "versionCode": 65536
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/COLOR CARDS.face",
+      "versionCode": 65536
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/COLOR CARDS.face",
+      "versionCode": 65536
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/COLOR CARDS.face",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
